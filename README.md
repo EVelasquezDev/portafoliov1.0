@@ -1,4 +1,4 @@
-# Portafolio v1.0
+# Portafolio EVelásquez Developer v1.0
 Primera versión de mi portafolio personal
 
 Lenguajes Utilizados
