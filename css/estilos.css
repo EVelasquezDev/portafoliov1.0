@@ -1,0 +1,74 @@
+body {
+	/*font-family: "Mali", normal;*/
+}
+
+.navbar {
+	box-shadow: 2px 2px 5px #636e72;
+	opacity: .9;
+}
+
+.navbar .nav-item .nav-link {
+	color: #000;
+}
+
+span.navbar-toggler-icon {
+	width: 20px; height: 25px;
+}
+
+a.navbar-brand {
+	width: 25%;
+}
+
+a.navbar-brand img {
+	width: 100%; 
+	min-width: 200px;
+}
+
+.main-header {
+	position: relative;
+	background: url(../images/background.jpg);
+	background-size: cover;
+	min-height: 550px;
+}
+
+.background-overlay {
+	position: absolute;
+	background: rgba(0, 120, 255,.4);
+	top: 0;
+	left: 0; 
+	width: 100%;
+	height: 100%;
+}
+
+.form-control, .btn {
+	border-radius: 0;
+}
+
+#datos-personales {
+	width: 100%;
+}
+
+.proyectos, footer {
+	background: #3594ff;
+}
+
+span.negrita {
+	font-weight: bold;
+}
+
+.nav-link-hover:hover {
+	box-shadow: 2px 2px #ccc;
+	border-radius: 0 0 30% 0;
+}
+
+.animation-cards {
+	transition: transform 0.5s;
+}
+
+.animation-cards:hover {
+  	transform: rotate(20deg);
+}
+
+.py-6 {
+	padding: 130px 0;
+}
