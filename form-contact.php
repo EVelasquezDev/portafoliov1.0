@@ -1,7 +1,7 @@
 <!-- Contacto -->
 	<section class="bg-light py-5" id="contacto">
 		<div class="container">
-			<div class="row">
+			<div class="row justify-content-center">
 				<div class="col-lg-9" id="informacion">
 					<h3>Contacto</h3>
 					<p>Escríbeme un mensaje desde mi formulario de contacto.</p>
@@ -40,9 +40,15 @@
 						<div id="informacion"></div>
 					</form>
 				</div>
-
-				<div class="col-lg-3 align-self-center d-none d-lg-block">
-					<img src="images/logo.png" alt="">
+<!--
+				<div class="col-lg-3 col-sm-4 align-self-center d-lg-block redes">
+					<img src="images/redes/github.png" alt="" class="img-fluid d-lg-block mb-1 mt-1">
+					<img src="images/redes/linkedin.png" alt="" class="img-fluid d-lg-block mb-1 mt-1">
+				</div>
+-->
+				<div class="col-lg-4 col-md-6 col-sm-8 redes text-center py-2">
+					<a href="https://github.com/EliasDevelopments" target="_blank"><img src="images/redes/github.png" alt="Icono github" class="img-fluid"></a>
+					<a href="https://www.linkedin.com/in/evelasquezdev/" target="_blank"><img src="images/redes/linkedin.png" alt="Icono linkedin" class="img-fluid"></a>
 				</div>
 			</div>
 		</div>

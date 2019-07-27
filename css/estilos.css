@@ -72,3 +72,11 @@ span.negrita {
 .py-6 {
 	padding: 130px 0;
 }
+
+.redes img {
+	max-width: 10%;
+}
+
+.redes img:hover {
+	box-shadow: 5px 5px 5px #ccc;
+}
