@@ -173,7 +173,7 @@
 	<?php include('form-contact.php') ?>
 
 	<?php if (isset($_POST['enviar'])): ?>
-		<script> alert('Su mensaje fue enviado exitosamente.'); </script>
+		<script> alert('Su mensaje fue enviado exitosamente. Muschísimas gracias por contactarme, te responderé lo antes posible!'); </script>
 	<?php endif ?>
 
 <?php include('footer.php') ?>
