@@ -1,4 +1,4 @@
-	<header class="main-header">
+	<header class="main-header" id="inicio">
 		<div class="background-overlay text-white py-6">
 			<div class="container">
 				<div class="row">

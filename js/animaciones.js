@@ -1,3 +1,9 @@
+$("#btninicio").click(function() {
+    $('html, body').animate({
+        scrollTop: $("#inicio").offset().top
+    }, 1000);
+});
+
 $("#btndatospersonales").click(function() {
     $('html, body').animate({
         scrollTop: $("#datospersonales").offset().top - 100
