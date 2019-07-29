@@ -1,6 +1,6 @@
 	<!-- Proyectos -->
 	<section class="proyectos text-center" id="proyectos">
-		<div class="container p-5">
+		<div class="container py-5">
 			<h1 class="text-white">Proyectos</h1>
 			<p class="text-white"> Muestra de algunos proyectos realizados. </p>
 

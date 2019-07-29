@@ -87,7 +87,7 @@
 		<div class="container">
 			<h3 class="text-center mb-3">Conocimientos Básicos</h3>
 			<div class="row justify-content-center">
-				<div class="col-md-3 col-sm-6 col-8 mb-2">
+				<div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-2">
 					<div class="card text-center border-primary">
 						<div class="card-body">
 							<img src="images/html5.png" alt="Logo HTML5" class="img-fluid animation-cards">
@@ -98,7 +98,7 @@
 					</div>
 				</div>
 
-				<div class="col-md-3 col-sm-6 col-8 mb-2">
+				<div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-2">
 					<div class="card text-center border-primary">
 						<div class="card-body">
 							<img src="images/css3.png" alt="Logo HTML5" class="img-fluid animation-cards">
@@ -109,7 +109,7 @@
 					</div>
 				</div>
 
-				<div class="col-md-3 col-sm-6 col-8 mb-2">
+				<div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-2">
 					<div class="card text-center border-primary">
 						<div class="card-body">
 							<img src="images/javascript.png" alt="Logo HTML5" class="img-fluid animation-cards">
@@ -120,7 +120,7 @@
 					</div>
 				</div>
 
-				<div class="col-md-3 col-sm-6 col-8 mb-2">
+				<div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-2">
 					<div class="card text-center border-primary">
 						<div class="card-body">
 							<img src="images/php.png" alt="Logo HTML5" class="img-fluid animation-cards">
@@ -131,7 +131,7 @@
 					</div>
 				</div>
 
-				<div class="col-md-3 col-sm-6 col-8 mb-2">
+				<div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-2">
 					<div class="card text-center border-primary">
 						<div class="card-body">
 							<img src="images/c++.png" alt="Logo HTML5" class="img-fluid animation-cards">
@@ -142,7 +142,7 @@
 					</div>
 				</div>
 
-				<div class="col-md-3 col-sm-6 col-8 mb-2">
+				<div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-2">
 					<div class="card text-center border-primary">
 						<div class="card-body">
 							<img src="images/java.png" alt="Logo HTML5" class="img-fluid animation-cards">
@@ -153,7 +153,7 @@
 					</div>
 				</div>
 
-				<div class="col-md-3 col-sm-6 col-8 mb-2">
+				<div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-2">
 					<div class="card text-center border-primary">
 						<div class="card-body">
 							<img src="images/vfp.png" alt="Logo HTML5" class="img-fluid animation-cards">
@@ -164,7 +164,7 @@
 					</div>
 				</div>
 
-				<div class="col-md-3 col-sm-6 col-8 mb-2">
+				<div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-2">
 					<div class="card text-center border-primary">
 						<div class="card-body">
 							<img src="images/sql.png" alt="Logo HTML5" class="img-fluid animation-cards">
