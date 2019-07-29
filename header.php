@@ -11,7 +11,7 @@
 </head>
 <body>
 	<!-- Barra de navegación -->
-	<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+	<nav class="navbar navbar-expand-lg navbar-light fixed-top">
 		<div class="container">
 			<a class="navbar-brand" href="/">
 				<img src="images/logo2.png" alt="EVelasquez Developer Logo" class="logo">
