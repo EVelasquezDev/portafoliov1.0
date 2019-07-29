@@ -35,7 +35,7 @@
 						</div>
 
 						<button type="submit" name="enviar" class="btn btn-secondary btn-lg btn-block" data-toggle="modal" data-target="#enviar">
-							Enviar mi Mensaje
+							Enviar mensaje
 						</button>
 						<div id="informacion"></div>
 					</form>
