@@ -23,7 +23,10 @@
 			<div class="collapse navbar-collapse" id="navbarNav">
 				<ul class="navbar-nav ml-auto">
 					<li class="nav-item nav-link-hover">
-						<a href="#" class="nav-link" id="btnconocimientos">Conocimientos Básicos</a>
+						<a href="#" class="nav-link" id="btninicio">Inicio</a>
+					</li>
+					<li class="nav-item nav-link-hover">
+						<a href="#" class="nav-link" id="btnconocimientos">Conocimientos</a>
 					</li>
 					<li class="nav-item nav-link-hover">
 						<a href="#" class="nav-link" id="btnproyectos">Proyectos</a>
