@@ -8,6 +8,7 @@
 	<script src="js/tether.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
 	<script src="js/animaciones.js"></script>
+	<script src="js/scrollflow.min.js"></script>
 	
 </body>
 </html>

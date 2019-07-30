@@ -6,7 +6,7 @@
 
 			<div class="row justify-content-center">
 				<div class="col-lg-6 col-12 mb-2">
-					<div class="card">
+					<div class="card mb-3 scrollflow -slide-right -opacity">
 						<div class="card-body">
 							<h4>Sistema web para la gestión y control de documentos</h4>
 							<div class="img-proyect">
@@ -22,7 +22,7 @@
 				</div>
 
 				<div class="col-lg-6 col-12 mb-2">
-					<div class="card">
+					<div class="card scrollflow -slide-left -opacity">
 						<div class="card-body">
 							<h4>Página web <br> SpeedRubiks</h4>
 							<div class="img-proyect">

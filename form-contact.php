@@ -3,9 +3,9 @@
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-9" id="informacion">
-					<h3>Contacto</h3>
-					<p>Escríbeme un mensaje desde mi formulario de contacto.</p>
-					<form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST" name="enviarForm">
+					<h3 class="mb-3 scrollflow -slide-left -opacity">Contacto</h3>
+					<p class="mb-3 scrollflow -slide-right -opacity">Escríbeme un mensaje desde mi formulario de contacto.</p>
+					<form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST" name="enviarForm" class="mb-3 scrollflow -slide-top -opacity">
 						<div class="input-group mb-3">
 							<div class="input-group-prepend">
 								<i class="fas fa-exclamation input-group-text"></i>
@@ -40,12 +40,6 @@
 						<div id="informacion"></div>
 					</form>
 				</div>
-<!--
-				<div class="col-lg-3 col-sm-4 align-self-center d-lg-block redes">
-					<img src="images/redes/github.png" alt="" class="img-fluid d-lg-block mb-1 mt-1">
-					<img src="images/redes/linkedin.png" alt="" class="img-fluid d-lg-block mb-1 mt-1">
-				</div>
--->
 				<div class="col-lg-4 col-md-6 col-sm-8 redes text-center py-2">
 					<a href="https://github.com/EliasDevelopments" target="_blank"><img src="images/redes/github.png" alt="Icono github" class="img-fluid"></a>
 					<a href="https://www.linkedin.com/in/evelasquezdev/" target="_blank"><img src="images/redes/linkedin.png" alt="Icono linkedin" class="img-fluid"></a>

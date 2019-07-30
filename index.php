@@ -5,7 +5,7 @@
 	<?php include('banner.php') ?>
 
 	<!-- Información Personal -->
-	<section class="container text-center p-5" id="datospersonales">
+	<section class="container text-center p-5 scrollflow -slide-top -opacity" id="datospersonales">
 		<div class="row">
 			<div id="datos-personales">
 				<div class="card">
@@ -84,8 +84,8 @@
 
 	<!-- Conocimientos Básicos -->
 	<section class="bg-light py-5" id="conocimientos">
-		<div class="container">
-			<h3 class="text-center mb-3">Conocimientos Básicos</h3>
+		<div class="container scrollflow -slide-top -opacity">
+			<h3 class="text-center mb-3 scrollflow -slide-bottom -opacity">Conocimientos Básicos</h3>
 			<div class="row justify-content-center">
 				<div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-2">
 					<div class="card text-center border-primary">
@@ -179,12 +179,14 @@
 	</section>
 
 	<!-- Algo más -->
-	<section class="text-center">
-		<div class="container">
-			<div class="row">
-				<div class="m-5 text-center">
-					<h3>¿Algo más sobre mi persona?</h3>
-					<p>Tengo conocimientos básicos en varios lenguajes, joven con ganas de seguír aprendiendo, obtener experiencia e ir mejorando constantemente.</p>
+	<section>
+		<div class="container scrollflow -slide-bottom -opacity">
+			<div class="col">
+				<div class="row">
+					<div class="m-5 text-center">
+						<h3>¿Algo más sobre mi persona?</h3>
+						<p>Tengo conocimientos básicos en varios lenguajes, joven con ganas de seguír aprendiendo, obtener experiencia e ir mejorando constantemente.</p>
+					</div>
 				</div>
 			</div>
 		</div>
