@@ -8,7 +8,7 @@
 				<div class="col-lg-6 col-12 mb-2">
 					<div class="card">
 						<div class="card-body">
-							<h4>SISTEMA WEB PARA LA GESTIÓN Y CONTROL DE DOCUMENTOS</h4>
+							<h4>Sistema web para la gestión y control de documentos</h4>
 							<div class="img-proyect">
 								<a href="#" data-toggle="modal" data-target="#proyecto1">
 									<h2 class="titulo">Ver más</h2>
@@ -24,7 +24,7 @@
 				<div class="col-lg-6 col-12 mb-2">
 					<div class="card">
 						<div class="card-body">
-							<h4>PÁGINA WEB <br> SPEEDRUBIKS</h4>
+							<h4>Página web <br> SpeedRubiks</h4>
 							<div class="img-proyect">
 								<a href="#" data-toggle="modal" data-target="#proyecto2">
 									<h2 class="titulo">Ver más</h2>
