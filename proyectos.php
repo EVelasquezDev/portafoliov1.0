@@ -9,12 +9,14 @@
 					<div class="card">
 						<div class="card-body">
 							<h4>SISTEMA WEB PARA LA GESTIÓN Y CONTROL DE DOCUMENTOS</h4>
-							<img src="./images/proyectos/SGDYG/index.png" class="img-fluid">
+							<div class="img-proyect">
+								<a href="#" data-toggle="modal" data-target="#proyecto1">
+									<h2 class="titulo">Ver más</h2>
+									<img src="./images/proyectos/SGDYG/index.png" class="img-fluid">
+								</a>
+							</div>
 							<p><strong>Lenguajes Utilizados: </strong> HTML5, CSS3, PHP, SQL, JavaScript </p>
 							<p><strong>Frameworks Utilizados: </strong> Bootstrap, CakePHP </p>
-							<button type="button" class="btn btn-primary mt-3" data-toggle="modal" data-target="#proyecto1">
-		 						Ver más
-							</button>
 						</div>
 					</div>
 				</div>
@@ -23,12 +25,14 @@
 					<div class="card">
 						<div class="card-body">
 							<h4>PÁGINA WEB <br> SPEEDRUBIKS</h4>
-							<img src="./images/proyectos/SpeedRubiks/index.png" class="img-fluid">
+							<div class="img-proyect">
+								<a href="#" data-toggle="modal" data-target="#proyecto2">
+									<h2 class="titulo">Ver más</h2>
+									<img src="./images/proyectos/SpeedRubiks/index.png" class="img-fluid">
+								</a>
+							</div>
 							<p><strong>Lenguajes Utilizados: </strong> HTML5, CSS3, JavaScript </p>
 							<p><strong>Frameworks Utilizados: </strong> Bootstrap </p>
-							<button type="button" class="btn btn-primary mt-3" data-toggle="modal" data-target="#proyecto2">
-		 						Ver más
-							</button>
 						</div>
 					</div>
 				</div>

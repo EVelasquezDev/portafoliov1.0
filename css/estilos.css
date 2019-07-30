@@ -5,7 +5,7 @@ body {
 .navbar {
 	background-color: #dfe6e9;
 	box-shadow: 2px 2px 5px #636e72;
-	opacity: .9;
+	/*opacity: .9;*/
 }
 
 .navbar .nav-item .nav-link {
@@ -80,4 +80,36 @@ span.negrita {
 
 .redes img:hover {
 	box-shadow: 5px 5px 5px #ccc;
+}
+
+.img-proyect {
+  	position: relative;
+  	background-color: rgba(0, 0, 0, 0.8);
+  	overflow: hidden;
+}
+
+.img-proyect img {
+  	display: block;
+  	margin: 0 auto;
+}
+
+.img-proyect .titulo {
+  	position: absolute;
+  	top: 50%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
+  	color: transparent;
+}
+
+.img-proyect a:hover img {
+	transform:scale(1.05);
+	transition:all .3s ease-in-out;
+	opacity: 0.5;
+}
+
+.img-proyect a:hover .titulo {
+	transition:all .3s ease-in-out;
+  	color: #FFF;
+  	text-shadow: 1.5px 1.5px #CCC;
+  	z-index: 1;
 }
