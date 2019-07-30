@@ -5,7 +5,6 @@ body {
 .navbar {
 	background-color: #dfe6e9;
 	box-shadow: 2px 2px 5px #636e72;
-	/*opacity: .9;*/
 }
 
 .navbar .nav-item .nav-link {
@@ -112,4 +111,9 @@ span.negrita {
   	color: #FFF;
   	text-shadow: 1.5px 1.5px #CCC;
   	z-index: 1;
+}
+
+.aparece {
+	opacity: 0;
+	transition: all 0.5s;
 }
