@@ -28,6 +28,10 @@ a.navbar-brand img {
 	overflow: hidden;
 }
 
+button#btndatospersonales {
+	overflow: hidden;
+} 
+
 #proyectos, #contacto {
 	overflow: auto;
 }

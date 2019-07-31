@@ -1,6 +1,10 @@
 	<footer>
-		<div class="container p-2 text-white text-center">
-			<p>&copy; 2019 EVelásquez Developer</p>
+		<div class="container p-1 text-white text-center">
+			<div class="row">
+				<div class="col">
+					<p class="mt-2">&copy; 2019 EVelásquez Developer</p>
+				</div>
+			</div>
 		</div>
 	</footer>
 

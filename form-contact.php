@@ -37,7 +37,6 @@
 						<button type="submit" name="enviar" class="btn btn-secondary btn-lg btn-block" data-toggle="modal" data-target="#enviar">
 							Enviar mensaje
 						</button>
-						<div id="informacion"></div>
 					</form>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-8 redes text-center py-2">

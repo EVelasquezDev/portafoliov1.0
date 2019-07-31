@@ -1,7 +1,7 @@
 <?php require('funciones.php') ?>
 <?php include('header.php') ?>
 
-	<!--- Cabecera --->
+	<!-- Cabecera -->
 	<?php include('banner.php') ?>
 
 	<!-- Información Personal -->
