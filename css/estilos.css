@@ -4,20 +4,15 @@
 }
 
 body {
-	/*font-family: "Mali", normal;*/
+	font-family: Trebuchet MS, Arial, Helvetica, sans-serif;
 }
 
-.navbar {
-	background-color: #dfe6e9;
-	box-shadow: 2px 2px 5px #636e72;
+.gris {
+	background: rgba(207, 207, 207, .5);
 }
 
-.navbar .nav-item .nav-link {
-	color: #000;
-}
-
-span.navbar-toggler-icon {
-	width: 20px; height: 25px;
+.top-nav-collapse {
+	background: rgba(207, 207, 207, 0.900) !important;
 }
 
 a.navbar-brand {

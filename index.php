@@ -84,7 +84,7 @@
 
 	<!-- Conocimientos Básicos -->
 	<section class="bg-light py-5" id="conocimientos">
-		<div class="container scrollflow -slide-top -opacity">
+		<div class="container scrollflow -pop -opacity">
 			<h3 class="text-center mb-3 scrollflow -slide-bottom -opacity">Conocimientos Básicos</h3>
 			<div class="row justify-content-center">
 				<div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-2">
