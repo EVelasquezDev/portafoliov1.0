@@ -28,7 +28,7 @@ a.navbar-brand img {
 	overflow: hidden;
 }
 
-button#btndatospersonales {
+button#btndatospersonales, #btnenviarmensaje {
 	overflow: hidden;
 } 
 

@@ -34,7 +34,7 @@
 							<textarea name="mensaje" placeholder="Escribe tu mensaje!" class="form-control" cols="30" rows="10" required></textarea>
 						</div>
 
-						<button type="submit" name="enviar" class="btn btn-secondary btn-lg btn-block" data-toggle="modal" data-target="#enviar">
+						<button type="submit" name="enviar" class="btn btn-secondary btn-lg btn-block" id="btnenviarmensaje" data-toggle="modal" data-target="#enviar">
 							Enviar mensaje
 						</button>
 					</form>
