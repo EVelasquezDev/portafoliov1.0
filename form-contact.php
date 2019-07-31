@@ -1,5 +1,5 @@
 <!-- Contacto -->
-	<section class="bg-light py-5" id="contacto">
+	<section class="bg-light pt-5 pb-4" id="contacto">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-9" id="informacion">
@@ -39,7 +39,7 @@
 						</button>
 					</form>
 				</div>
-				<div class="col-lg-4 col-md-6 col-sm-8 redes text-center py-2">
+				<div class="col-lg-4 col-md-6 col-sm-8 redes text-center">
 					<a href="https://github.com/EliasDevelopments" target="_blank"><img src="images/redes/github.png" alt="Icono github" class="img-fluid"></a>
 					<a href="https://www.linkedin.com/in/evelasquezdev/" target="_blank"><img src="images/redes/linkedin.png" alt="Icono linkedin" class="img-fluid"></a>
 				</div>

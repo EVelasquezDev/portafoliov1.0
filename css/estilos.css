@@ -28,13 +28,9 @@ a.navbar-brand img {
 	overflow: hidden;
 }
 
-button#btndatospersonales, #btnenviarmensaje {
+button#btndatospersonales, #btnenviarmensaje, #proyectos, #contacto {
 	overflow: hidden;
 } 
-
-#proyectos, #contacto {
-	overflow: auto;
-}
 
 .main-header {
 	position: relative;

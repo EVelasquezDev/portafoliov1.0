@@ -8,9 +8,7 @@
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/all.min.css">
 	<link rel="stylesheet" href="css/estilos.css">
-	<link rel="stylesheet" href="css/scrollflow.css">
 	<link rel="stylesheet" href="css/mdb.css">
-	<link href="https://fonts.googleapis.com/css?family=Mali|Ubuntu&display=swap" rel="stylesheet">
 
 </head>
 <body>
