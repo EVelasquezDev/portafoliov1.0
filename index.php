@@ -7,7 +7,7 @@
 	<!-- Información Personal -->
 	<section class="container text-center p-5 scrollflow -slide-top -opacity" id="datospersonales">
 		<div class="row">
-			<div id="datos-personales">
+			<div class="col" id="datos-personales">
 				<div class="card">
 					<div class="card-header" id="headingOne">
 						<h5 class="mb-0">

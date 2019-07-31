@@ -28,7 +28,7 @@ a.navbar-brand img {
 	overflow: hidden;
 }
 
-button#btndatospersonales, #btnenviarmensaje, #proyectos, #contacto {
+button#btndatospersonales, #btnenviarmensaje, #proyectos, #contacto, #datospersonales .card-header  {
 	overflow: hidden;
 } 
 
