@@ -24,6 +24,10 @@ a.navbar-brand img {
 	min-width: 200px;
 }
 
+.navbar .nav-item a {
+	overflow: hidden;
+}
+
 #proyectos, #contacto {
 	overflow: auto;
 }

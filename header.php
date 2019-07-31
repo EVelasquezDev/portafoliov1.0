@@ -28,16 +28,16 @@
 		  	<div class="collapse navbar-collapse" id="navbarNav">
 		    	<ul class="navbar-nav ml-auto">
 		      		<li class="nav-item">
-		        		<a href="#" class="nav-link" id="btninicio">Inicio</a>
+		        		<a href="#" class="nav-link waves-effect waves-light" id="btninicio">Inicio</a>
 		      		</li>
 		      		<li class="nav-item">
-		        		<a href="#" class="nav-link" id="btnconocimientos">Conocimientos</a>
+		        		<a href="#" class="nav-link waves-effect waves-light" id="btnconocimientos">Conocimientos</a>
 		      		</li>
 		      		<li class="nav-item">
-		        		<a href="#" class="nav-link" id="btnproyectos">Proyectos</a>
+		        		<a href="#" class="nav-link waves-effect waves-light" id="btnproyectos">Proyectos</a>
 		      		</li>
 		      		<li class="nav-item">
-		        		<a href="#" class="nav-link" id="btncontacto">Contacto</a>
+		        		<a href="#" class="nav-link waves-effect waves-light" id="btncontacto">Contacto</a>
 		      		</li>
 		    	</ul>
 		  	</div>
