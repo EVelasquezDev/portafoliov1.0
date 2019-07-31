@@ -1,3 +1,8 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
 body {
 	/*font-family: "Mali", normal;*/
 }
@@ -22,6 +27,10 @@ a.navbar-brand {
 a.navbar-brand img {
 	width: 100%; 
 	min-width: 200px;
+}
+
+#proyectos, #contacto {
+	overflow: auto;
 }
 
 .main-header {
