@@ -10,6 +10,7 @@
 	<link rel="stylesheet" href="css/all.min.css">
 	<link rel="stylesheet" href="css/estilos.css">
 	<link rel="stylesheet" href="css/mdb.css">
+	<link rel="stylesheet" href="css/animate.min.css">
 
 	<!-- PWA -->
 	<meta name="theme-color" content="#0078FF">
