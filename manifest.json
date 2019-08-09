@@ -1,0 +1,64 @@
+{
+	"name":"EVelasquez Developer",
+	"short_name":"EVelasquez Developer",
+	"description":"Bienvenid@s a mi portafolio",
+	"background-color":"#CFCFCF",
+	"theme-color":"#0078FF",
+	"orientation":"portrait",
+	"display":"standalone",
+	"start_url":"./?utm_source=web_app_manifest",
+	"scope":"./",
+	"lang":"es-VE",
+	"icons": [
+		{
+			"src":"./images/iconos/icon_1024.png",
+			"sizes":"1024x1024",
+			"type": "image/png"
+		},
+		{
+			"src":"./images/iconos/icon_512.png",
+			"sizes":"512x512",
+			"type": "image/png"
+		},
+		{
+			"src":"./images/iconos/icon_384.png",
+			"sizes":"384x384",
+			"type": "image/png"
+		},
+		{
+			"src":"./images/iconos/icon_256.png",
+			"sizes":"256x256",
+			"type": "image/png"
+		},
+		{
+			"src":"./images/iconos/icon_192.png",
+			"sizes":"192x192",
+			"type": "image/png"
+		},
+		{
+			"src":"./images/iconos/icon_128.png",
+			"sizes":"128x128",
+			"type": "image/png"
+		},
+		{
+			"src":"./images/iconos/icon_96.png",
+			"sizes":"96x96",
+			"type": "image/png"
+		},
+		{
+			"src":"./images/iconos/icon_64.png",
+			"sizes":"64x64",
+			"type": "image/png"
+		},
+		{
+			"src":"./images/iconos/icon_32.png",
+			"sizes":"32x32",
+			"type": "image/png"
+		},
+		{
+			"src":"./images/iconos/icon_16.png",
+			"sizes":"16x16",
+			"type": "image/png"
+		}
+	]
+}

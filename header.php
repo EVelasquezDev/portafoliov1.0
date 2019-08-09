@@ -11,6 +11,16 @@
 	<link rel="stylesheet" href="css/estilos.css">
 	<link rel="stylesheet" href="css/mdb.css">
 
+	<!-- PWA -->
+	<meta name="theme-color" content="#0078FF">
+	<meta name="MobileOptimized" content="width">
+	<meta name="HandheldFriendly" content="true">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+	<link rel="apple-touch-icon" href="./images/favicon.png">
+	<link rel="apple-touch-startup-image" href="./images/favicon.png">
+	<link rel="manifest" href="./manifest.json">
+
 </head>
 <body>
 	<!-- Barra de navegación -->

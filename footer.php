@@ -16,6 +16,9 @@
 
 	<!-- MDB core JavaScript -->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.8.7/js/mdb.min.js"></script>
+
+	<!-- PWA -->
+	<script src="script.js"></script>
 	
 </body>
 </html>
