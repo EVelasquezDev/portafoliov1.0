@@ -14,4 +14,11 @@
 
 		enviarCorreo($email_asunto, $nombre_rem, $correo_rem, $mensaje_rem);
 	}
+
+	function obtenerEdad() {
+		$fecha_nac = new Datetime('1998-11-22');
+		$fecha_act = new Datetime();
+		$edad = $fecha_act->diff($fecha_nac);
+		return $edad->y;
+	}
 ?>

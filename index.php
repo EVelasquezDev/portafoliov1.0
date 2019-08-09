@@ -19,7 +19,7 @@
 
 					<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#datos-personales">
 						<div class="card-body">
-							<p><span class="negrita">Edad: </span> <span>20 años.</span></p>
+							<p><span class="negrita">Edad: </span> <span><?php echo obtenerEdad(); ?> años.</span></p>
 							<p><span class="negrita">Fecha de Nacimiento: </span> <span>22 de Noviembre de 1998.</span></p>
 							<p><span class="negrita">Lugar de Nacimiento: </span> <span>Caracas, Venezuela.</span></p>
 							<p><span class="negrita">Correo: </span> <span>evelasquezdevelopments@gmail.com</span></p>
