@@ -112,7 +112,7 @@
 				<div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-2">
 					<div class="card text-center border-primary">
 						<div class="card-body">
-							<img src="images/javascript.png" alt="Logo HTML5" class="img-fluid animation-cards">
+							<img src="images/javascript.png" alt="Logo CSS3" class="img-fluid animation-cards">
 							<div class="progress">
 								<div class="progress-bar progress-bar-striped bg-secondary" role="progressbar" style="width: 30%;" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100">30%</div>
 							</div>
@@ -123,7 +123,7 @@
 				<div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-2">
 					<div class="card text-center border-primary">
 						<div class="card-body">
-							<img src="images/php.png" alt="Logo HTML5" class="img-fluid animation-cards">
+							<img src="images/php.png" alt="Logo JavaScript" class="img-fluid animation-cards">
 							<div class="progress">
 								<div class="progress-bar progress-bar-striped bg-secondary" role="progressbar" style="width: 40%;" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">40%</div>
 							</div>
@@ -134,7 +134,7 @@
 				<div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-2">
 					<div class="card text-center border-primary">
 						<div class="card-body">
-							<img src="images/c++.png" alt="Logo HTML5" class="img-fluid animation-cards">
+							<img src="images/c++.png" alt="Logo C++" class="img-fluid animation-cards">
 							<div class="progress">
 								<div class="progress-bar progress-bar-striped bg-secondary" role="progressbar" style="width: 20%;" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">20%</div>
 							</div>
@@ -145,7 +145,7 @@
 				<div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-2">
 					<div class="card text-center border-primary">
 						<div class="card-body">
-							<img src="images/java.png" alt="Logo HTML5" class="img-fluid animation-cards">
+							<img src="images/java.png" alt="Logo Java" class="img-fluid animation-cards">
 							<div class="progress">
 								<div class="progress-bar progress-bar-striped bg-secondary" role="progressbar" style="width: 30%;" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100">30%</div>
 							</div>
@@ -156,7 +156,7 @@
 				<div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-2">
 					<div class="card text-center border-primary">
 						<div class="card-body">
-							<img src="images/vfp.png" alt="Logo HTML5" class="img-fluid animation-cards">
+							<img src="images/vfp.png" alt="Logo VFP" class="img-fluid animation-cards">
 							<div class="progress">
 								<div class="progress-bar progress-bar-striped bg-secondary" role="progressbar" style="width: 40%;" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">40%</div>
 							</div>
@@ -167,9 +167,31 @@
 				<div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-2">
 					<div class="card text-center border-primary">
 						<div class="card-body">
-							<img src="images/sql.png" alt="Logo HTML5" class="img-fluid animation-cards">
+							<img src="images/sql.png" alt="Logo SQL" class="img-fluid animation-cards">
 							<div class="progress">
 								<div class="progress-bar progress-bar-striped bg-secondary" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">60%</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-2">
+					<div class="card text-center border-primary">
+						<div class="card-body">
+							<img src="images/bootstrap.png" alt="Logo Bootstrap" class="img-fluid animation-cards">
+							<div class="progress">
+								<div class="progress-bar progress-bar-striped bg-secondary" role="progressbar" style="width: 40%;" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">40%</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-2">
+					<div class="card text-center border-primary">
+						<div class="card-body">
+							<img src="images/cakephp.png" alt="Logo CakePHP" class="img-fluid animation-cards">
+							<div class="progress">
+								<div class="progress-bar progress-bar-striped bg-secondary" role="progressbar" style="width: 30%;" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100">30%</div>
 							</div>
 						</div>
 					</div>

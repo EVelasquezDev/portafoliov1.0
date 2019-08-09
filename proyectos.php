@@ -12,10 +12,10 @@
 							<div class="img-proyect">
 								<a href="#" data-toggle="modal" data-target="#proyecto1">
 									<h2 class="titulo">Ver más</h2>
-									<img src="./images/proyectos/SGDYG/index.png" class="img-fluid">
+									<img src="./images/proyectos/SGDYG/index.png" class="img-fluid" alt="SGDYG">
 								</a>
 							</div>
-							<p><strong>Lenguajes Utilizados: </strong> HTML5, CSS3, PHP, SQL, JavaScript </p>
+							<p><strong>Lenguajes Utilizados: </strong> HTML5, CSS3, PHP, MySQL, JavaScript </p>
 							<p><strong>Frameworks Utilizados: </strong> Bootstrap, CakePHP </p>
 						</div>
 					</div>
@@ -28,7 +28,7 @@
 							<div class="img-proyect">
 								<a href="#" data-toggle="modal" data-target="#proyecto2">
 									<h2 class="titulo">Ver más</h2>
-									<img src="./images/proyectos/SpeedRubiks/index.png" class="img-fluid">
+									<img src="./images/proyectos/SpeedRubiks/index.png" class="img-fluid" alt="SpeedRubiks">
 								</a>
 							</div>
 							<p><strong>Lenguajes Utilizados: </strong> HTML5, CSS3, JavaScript </p>
@@ -104,7 +104,7 @@
 		  	<div class="modal-dialog modal-dialog-centered modal-lg" role="document">
 	    		<div class="modal-content">
 	      			<div class="modal-header">
-	        			<h5 class="modal-title" id="exampleModalLongTitle">Página web SpeedRubiks</h5>
+	        			<h5 class="modal-title" id="exampleModalLongTitle2">Página web SpeedRubiks</h5>
 	        			<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 	          				<span aria-hidden="true">&times;</span>
 	        			</button>
