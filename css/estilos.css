@@ -129,3 +129,8 @@ span.negrita {
 	opacity: 0;
 	transition: all 0.5s;
 }
+
+.hoverswing:hover {
+    -webkit-animation: swing 0.5s;
+    animation: swing 0.5s;
+}
