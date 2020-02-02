@@ -4,7 +4,7 @@
 			<div class="row justify-content-center">
 				<div class="col-lg-9" id="informacion">
 					<h3 class="mb-3 scrollflow -slide-left -opacity">Contacto</h3>
-					<p class="mb-3 scrollflow -slide-right -opacity">Escríbeme un mensaje desde mi formulario de contacto.</p>
+					<p class="mb-3 scrollflow -slide-right -opacity">¿Necesitas ayuda en tu proyecto? Escríbeme un mensaje a través de mi formulario de contacto.</p>
 					<form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST" name="enviarForm" class="mb-3 scrollflow -slide-top -opacity">
 						<div class="input-group mb-3">
 							<div class="input-group-prepend">
