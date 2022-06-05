@@ -28,7 +28,7 @@
 	<nav class="navbar navbar-expand-lg navbar-light gris scrolling-navbar fixed-top stroke">
 		<div class="container">
 			<a class="navbar-brand" href="/">
-				<img src="images/logo2.png" alt="EVelasquez Developer Logo" class="logo">
+				<img src="./images/logo2.png" alt="EVelasquez Developer Logo" class="logo">
 				<!--EVelasquez Developer-->
 			</a>
 		  	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

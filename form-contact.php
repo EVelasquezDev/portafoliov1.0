@@ -40,8 +40,8 @@
 					</form>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-8 redes text-center">
-					<a href="https://github.com/EliasDevelopments" target="_blank"><img src="images/redes/github.png" alt="Icono github" class="img-fluid"></a>
-					<a href="https://www.linkedin.com/in/evelasquezdev/" target="_blank"><img src="images/redes/linkedin.png" alt="Icono linkedin" class="img-fluid"></a>
+					<a href="https://github.com/EliasDevelopments" target="_blank"><img src="./images/redes/github.png" alt="Icono github" class="img-fluid"></a>
+					<a href="https://www.linkedin.com/in/evelasquezdev/" target="_blank"><img src="./images/redes/linkedin.png" alt="Icono linkedin" class="img-fluid"></a>
 				</div>
 			</div>
 		</div>

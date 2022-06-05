@@ -4,9 +4,9 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
 	<link rel="icon" type="image/png" href="./images/favicon.png">
 	<title> EVelasquez Developer </title>
-	<link rel="stylesheet" href="css/bootstrap.min.css">
-	<link rel="stylesheet" href="css/all.min.css">
-	<link rel="stylesheet" href="css/estilos.css">
+	<link rel="stylesheet" href="./css/bootstrap.min.css">
+	<link rel="stylesheet" href="./css/all.min.css">
+	<link rel="stylesheet" href="./css/estilos.css">
 	<link href="https://fonts.googleapis.com/css?family=Mali|Ubuntu&display=swap" rel="stylesheet">
 </head>
 <body>
@@ -14,7 +14,7 @@
 	<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
 		<div class="container">
 			<a class="navbar-brand" href="/">
-				<img src="images/logo2.png" alt="EVelasquez Developer Logo" class="logo">
+				<img src="./images/logo2.png" alt="EVelasquez Developer Logo" class="logo">
 			</a>
 		</div>
 	</nav>

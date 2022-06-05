@@ -1,8 +1,8 @@
-<?php require('funciones.php') ?>
-<?php include('header.php') ?>
+<?php require('./funciones.php') ?>
+<?php include('./header.php') ?>
 
 	<!-- Cabecera -->
-	<?php include('banner.php') ?>
+	<?php include('./banner.php') ?>
 
 	<!-- Información Personal -->
 	<section class="container text-center p-5 scrollflow -slide-top -opacity" id="datospersonales">
@@ -19,7 +19,7 @@
 
 					<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#datos-personales">
 						<div class="card-body">
-							<p><span class="negrita">Edad: </span> <span><?php echo obtenerEdad(); ?> años.</span></p>
+							<p><span class="negrita">Edad: <?php echo obtenerEdad(); ?> años. </span></p>
 							<p><span class="negrita">Fecha de Nacimiento: </span> <span>22 de Noviembre de 1998.</span></p>
 							<p><span class="negrita">Lugar de Nacimiento: </span> <span>Caracas, Venezuela.</span></p>
 							<p><span class="negrita">Correo: </span> <span>evelasquezdevelopments@gmail.com</span></p>
@@ -90,10 +90,7 @@
 				<div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-2">
 					<div class="card text-center border-primary">
 						<div class="card-body">
-							<img src="images/html5.png" alt="Logo HTML5" class="img-fluid animated hoverswing">
-							<div class="progress">
-								<div class="progress-bar progress-bar-striped bg-secondary" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">60%</div>
-							</div>
+							<img src="./images/html5.png" alt="Logo HTML5" class="img-fluid animated hoverswing">
 						</div>
 					</div>
 				</div>
@@ -101,10 +98,7 @@
 				<div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-2">
 					<div class="card text-center border-primary">
 						<div class="card-body">
-							<img src="images/css3.png" alt="Logo HTML5" class="img-fluid animated hoverswing">
-							<div class="progress">
-								<div class="progress-bar progress-bar-striped bg-secondary" role="progressbar" style="width: 50%;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">50%</div>
-							</div>
+							<img src="./images/css3.png" alt="Logo HTML5" class="img-fluid animated hoverswing">
 						</div>
 					</div>
 				</div>
@@ -112,10 +106,7 @@
 				<div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-2">
 					<div class="card text-center border-primary">
 						<div class="card-body">
-							<img src="images/javascript.png" alt="Logo CSS3" class="img-fluid animated hoverswing">
-							<div class="progress">
-								<div class="progress-bar progress-bar-striped bg-secondary" role="progressbar" style="width: 30%;" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100">30%</div>
-							</div>
+							<img src="./images/javascript.png" alt="Logo CSS3" class="img-fluid animated hoverswing">
 						</div>
 					</div>
 				</div>
@@ -123,10 +114,7 @@
 				<div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-2">
 					<div class="card text-center border-primary">
 						<div class="card-body">
-							<img src="images/php.png" alt="Logo JavaScript" class="img-fluid animated hoverswing">
-							<div class="progress">
-								<div class="progress-bar progress-bar-striped bg-secondary" role="progressbar" style="width: 40%;" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">40%</div>
-							</div>
+							<img src="./images/php.png" alt="Logo JavaScript" class="img-fluid animated hoverswing">
 						</div>
 					</div>
 				</div>
@@ -134,10 +122,7 @@
 				<div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-2">
 					<div class="card text-center border-primary">
 						<div class="card-body">
-							<img src="images/c++.png" alt="Logo C++" class="img-fluid animated hoverswing">
-							<div class="progress">
-								<div class="progress-bar progress-bar-striped bg-secondary" role="progressbar" style="width: 20%;" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">20%</div>
-							</div>
+							<img src="./images/c++.png" alt="Logo C++" class="img-fluid animated hoverswing">
 						</div>
 					</div>
 				</div>
@@ -145,10 +130,7 @@
 				<div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-2">
 					<div class="card text-center border-primary">
 						<div class="card-body">
-							<img src="images/java.png" alt="Logo Java" class="img-fluid animated hoverswing">
-							<div class="progress">
-								<div class="progress-bar progress-bar-striped bg-secondary" role="progressbar" style="width: 30%;" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100">30%</div>
-							</div>
+							<img src="./images/java.png" alt="Logo Java" class="img-fluid animated hoverswing">
 						</div>
 					</div>
 				</div>
@@ -156,10 +138,7 @@
 				<div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-2">
 					<div class="card text-center border-primary">
 						<div class="card-body">
-							<img src="images/vfp.png" alt="Logo VFP" class="img-fluid animated hoverswing">
-							<div class="progress">
-								<div class="progress-bar progress-bar-striped bg-secondary" role="progressbar" style="width: 40%;" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">40%</div>
-							</div>
+							<img src="./images/vfp.png" alt="Logo VFP" class="img-fluid animated hoverswing">
 						</div>
 					</div>
 				</div>
@@ -167,10 +146,7 @@
 				<div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-2">
 					<div class="card text-center border-primary">
 						<div class="card-body">
-							<img src="images/sql.png" alt="Logo SQL" class="img-fluid animated hoverswing">
-							<div class="progress">
-								<div class="progress-bar progress-bar-striped bg-secondary" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">60%</div>
-							</div>
+							<img src="./images/sql.png" alt="Logo SQL" class="img-fluid animated hoverswing">
 						</div>
 					</div>
 				</div>
@@ -178,10 +154,7 @@
 				<div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-2">
 					<div class="card text-center border-primary">
 						<div class="card-body">
-							<img src="images/bootstrap.png" alt="Logo Bootstrap" class="img-fluid animated hoverswing">
-							<div class="progress">
-								<div class="progress-bar progress-bar-striped bg-secondary" role="progressbar" style="width: 40%;" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">40%</div>
-							</div>
+							<img src="./images/bootstrap.png" alt="Logo Bootstrap" class="img-fluid animated hoverswing">
 						</div>
 					</div>
 				</div>
@@ -189,10 +162,7 @@
 				<div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-2">
 					<div class="card text-center border-primary">
 						<div class="card-body">
-							<img src="images/cakephp.png" alt="Logo CakePHP" class="img-fluid animated hoverswing">
-							<div class="progress">
-								<div class="progress-bar progress-bar-striped bg-secondary" role="progressbar" style="width: 30%;" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100">30%</div>
-							</div>
+							<img src="./images/cakephp.png" alt="Logo CakePHP" class="img-fluid animated hoverswing">
 						</div>
 					</div>
 				</div>
@@ -224,4 +194,4 @@
 		<script> alert('Su mensaje fue enviado exitosamente. Muschísimas gracias por contactarme, te responderé lo antes posible!'); </script>
 	<?php endif ?>
 
-<?php include('footer.php') ?>
+<?php include('./footer.php') ?>

@@ -55,27 +55,27 @@
 						<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
 						  	<div class="carousel-inner">
 						    	<div class="carousel-item active">
-						      		<img class="d-block w-100" src="images/proyectos/SGDYG/Login.png" alt="Index SGDYG">
+						      		<img class="d-block w-100" src="./images/proyectos/SGDYG/Login.png" alt="Index SGDYG">
 						    	</div>
 
 						    	<div class="carousel-item">
-						      		<img class="d-block w-100" src="images/proyectos/SGDYG/index.png" alt="Home SGDYG">
+						      		<img class="d-block w-100" src="./images/proyectos/SGDYG/index.png" alt="Home SGDYG">
 						    	</div>
 
 						    	<div class="carousel-item">
-						      		<img class="d-block w-100" src="images/proyectos/SGDYG/Crear-usuario.png" alt="Crear SGDYG">
+						      		<img class="d-block w-100" src="./images/proyectos/SGDYG/Crear-usuario.png" alt="Crear SGDYG">
 						    	</div>
 
 						    	<div class="carousel-item">
-						      		<img class="d-block w-100" src="images/proyectos/SGDYG/Ver-usuarios.png" alt="Ver SGDYG">
+						      		<img class="d-block w-100" src="./images/proyectos/SGDYG/Ver-usuarios.png" alt="Ver SGDYG">
 						    	</div>
 
 						    	<div class="carousel-item">
-						      		<img class="d-block w-100" src="images/proyectos/SGDYG/Usuario-view.png" alt="View SGDYG">
+						      		<img class="d-block w-100" src="./images/proyectos/SGDYG/Usuario-view.png" alt="View SGDYG">
 						    	</div>
 
 						    	<div class="carousel-item">
-						      		<img class="d-block w-100" src="images/proyectos/SGDYG/Alerta-eliminar.png" alt="Eliminar SGDYG">
+						      		<img class="d-block w-100" src="./images/proyectos/SGDYG/Alerta-eliminar.png" alt="Eliminar SGDYG">
 						    	</div>
 						  	</div>
 
@@ -114,15 +114,15 @@
 						<div id="carouselExampleControlsp2" class="carousel slide" data-ride="carousel">
 						  	<div class="carousel-inner">
 						    	<div class="carousel-item active">
-						      		<img class="d-block w-100" src="images/proyectos/SpeedRubiks/index.png" alt="Index SpeedRubiks">
+						      		<img class="d-block w-100" src="./images/proyectos/SpeedRubiks/index.png" alt="Index SpeedRubiks">
 						    	</div>
 
 						    	<div class="carousel-item">
-						      		<img class="d-block w-100" src="images/proyectos/SpeedRubiks/notacion.png" alt="Notacion SpeedRubiks">
+						      		<img class="d-block w-100" src="./images/proyectos/SpeedRubiks/notacion.png" alt="Notacion SpeedRubiks">
 						    	</div>
 
 						    	<div class="carousel-item">
-						      		<img class="d-block w-100" src="images/proyectos/SpeedRubiks/casos.png" alt="Casos SpeedRubiks">
+						      		<img class="d-block w-100" src="./images/proyectos/SpeedRubiks/casos.png" alt="Casos SpeedRubiks">
 						    	</div>
 						  	</div>
 
