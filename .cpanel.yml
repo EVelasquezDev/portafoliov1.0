@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/evelasq1/public_html/
+    - export DEPLOYPATH=/home/evelasq1/repositories/Portafolio/
     - /bin/rm -Rf $DEPLOYPATH
     - /bin/mkdir $DEPLOYPATH
     - /bin/cp -R ./. $DEPLOYPATH
